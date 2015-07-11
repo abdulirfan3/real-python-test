@@ -1,0 +1,5 @@
+MySQL-python==1.2.5
+beautifulsoup4==4.4.0
+easygui==0.97.4
+mechanize==0.2.5
+virtualenv==13.1.0
